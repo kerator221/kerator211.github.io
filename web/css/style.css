@@ -1,0 +1,59 @@
+h1 {
+	margin-left: 500px;
+	color: #7B68EE;
+	font-size: 35px;
+}
+
+html {
+	background: #FFFFF0;
+}
+p {
+	font-family: sans-serif;
+	font-size: 24px;
+}
+hr {
+	color: red;
+}
+video {
+	width: 458px;
+	height: 380px;
+}
+a {
+	color: #1E90FF;
+	margin-left: 80px;
+	font-size: 26px;
+}
+span {
+	font-size: 22px;
+}
+video {
+	margin-left: 30px;
+}
+h3 {
+	margin-left: 30px;
+	font-size: 42px;
+	color: red;
+	margin-top: +58px; 
+}
+h2 {
+	margin-left: 1450px;
+	font-size: 30px;
+	color: #DAA520;
+	margin-top: -520px;
+}
+div {
+	margin-left: 1400px;
+	margin-top: -520px;
+}
+h1 {
+	align: center;
+}
+h4 {
+	margin-top: +105px;
+}
+input {
+	margin-top: -65px;
+	color: blue;
+}
+
+

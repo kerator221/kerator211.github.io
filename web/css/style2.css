@@ -1,0 +1,22 @@
+a {
+	font-size: 35px;
+	color: #7B68EE; 
+	font-family: Courier;
+}
+html {
+	background: #E0FFFF;
+}
+img {
+	margin-left: 650px;
+    width: 250px; height: 249px;
+}
+li {
+	font-size: 22px;
+	margin-left: 22px;
+}
+hr {
+	color: red;
+	background: red;
+	font-size: 30px;
+}
+
